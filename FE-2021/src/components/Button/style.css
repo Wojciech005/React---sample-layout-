@@ -1,0 +1,28 @@
+.btn {
+  font-size: 1rem;
+  margin:3% 0 5% 4%;
+  display: inline-block;
+  background-color: transparent;
+  border: 1px solid #b9b1b1;
+  padding: 7px 14px;
+  color: #474747;
+  text-decoration: none;
+  border-radius: 22px;
+  font-size: 0.7rem;
+  
+}
+
+@media (min-width: 760px) {
+  .btn {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 1050px)  {
+  .btn  {
+    margin:3% 0 5% 23%;
+    font-size: 1.1rem;
+   
+}
+}
+
